@@ -63,7 +63,7 @@
         public static Boolean verificacaoCorValida(String cor) {
             if (!cor.Equals("branco") && !cor.Equals("vermelho") && !cor.Equals("preto") &&
                 !cor.Equals("laranja") && !cor.Equals("verde") && !cor.Equals("roxo")) {
-                Console.WriteLine("Cor escolhida não existe, tenta novamente!");
+                Console.WriteLine("Cor escolhida não existe. Tenta novamente!");
                 return false;
             } else {
                 return true;
