@@ -3,7 +3,7 @@
 Esta aplicação tem o objetivo de desarmadilhar uma bomba que tem diversos cabos com cores diferentes para cortar.
 
 
-####O utilizador pode escolher entre 6 cores que são:
+O utilizador pode escolher entre 6 cores que são:
 1. Branco
 2. Preto
 3. Vermelho
@@ -11,7 +11,7 @@ Esta aplicação tem o objetivo de desarmadilhar uma bomba que tem diversos cabo
 5. Verde
 6. Roxo
 ---
-####Para desarmadilhar a bomba há regras que se têm que cumprir para a bomba não explodir
+Para desarmadilhar a bomba há regras que se têm que cumprir para a bomba não explodir
 - Depois de se cortar um fio branco não se podem cortar os fios brancos ou pretos;
 - Depois de se cortar um fio preto não se podem cortar os fios brancos, verde ou laranja;
 - Depois de se cortar um fio vermelho tem que se cortar um fio verde;
