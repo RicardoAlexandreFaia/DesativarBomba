@@ -1,9 +1,9 @@
 ﻿using NUnit.Framework;
 using DesativarBombaNS;
 
-namespace Tests
+namespace Testes
 {
-    public class Tests
+    public class Testes
     {
         [Test]
         public void PassingTestBranco()
